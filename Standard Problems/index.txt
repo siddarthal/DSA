@@ -3,3 +3,12 @@ Hi
 
 
 this is ./././././././
+https://www.interviewbit.com/problems/kth-node-from-middle/
+
+https://www.interviewbit.com/problems/reverse-alternate-k-nodes/
+
+https://www.interviewbit.com/problems/remove-duplicates-from-sorted-list-ii/
+
+https://www.interviewbit.com/problems/k-reverse-linked-list/
+
+https://www.interviewbit.com/problems/rotate-list/
